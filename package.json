@@ -20,8 +20,8 @@
     "Sequelize",
     ".env"
   ],
-  "author": "Sons of Pitches",
-  "license": "ISC",
+  "author": "Damina",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dthompasionas/Tech-blog/issues"
   },
