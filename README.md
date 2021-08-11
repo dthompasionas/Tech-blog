@@ -31,6 +31,7 @@ In order to use this app, This application is deployed on Heroku
 Not currently taking contributions.
 
 # Screenshot:
+![](/images/tech-blog-screenshot.png)
 
 # Questions
 Contact me with any questions here:
