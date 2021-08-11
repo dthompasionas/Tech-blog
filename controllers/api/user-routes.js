@@ -1,6 +1,6 @@
 const router = require('express').Router();
 // imports user, post, and comment models to use with our routes
-const { User, Post, Comment } = require('../../models');
+const { User, Post, Comment } = require('../../models/Index');
 
 
 router.get('/', (req, res) => {

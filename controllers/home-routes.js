@@ -1,7 +1,7 @@
 // imports our connections
 const sequelize = require("../config/connection");
 // imports our 3 model object files
-const { Post, User, Comment } = require("../models");
+const { Post, User, Comment } = require("../models/Index");
 // imports express' router object
 const router = require("express").Router();
 

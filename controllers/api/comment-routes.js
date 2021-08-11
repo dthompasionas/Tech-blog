@@ -1,6 +1,6 @@
 const router = require('express').Router();
 // Import the Comment model for our routes
-const { Comment } = require('../../models');
+const { Comment } = require('../../models/Index');
 // Make sure our sequelize connection is intact
 const sequelize = require('../../config/connection');
 // Users shouldn't post or update comments if they are not loggedIn
