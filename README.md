@@ -2,6 +2,8 @@
 
 https://github.com/dthompasionas/Tech-blog
 
+https://heroku-tech-blog.herokuapp.com/
+
 # Description
 This project uses the Model-View-Controller (MVC) paradigm to create a blog-style website.
 
